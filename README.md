@@ -3,8 +3,24 @@
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me mehmetyildiznur8@gmail.com
 
+<h1 align="center">Merhaba 👋, ben Yıldız</h1>
+<h3 align="center">Türkiye'den tutkulu bir ön yüz geliştiricisi</h3>
 
-<!---
-yldz1/yldz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ydlz1&label=Profile%20views&color=0e75b6&style=flat" alt="ydlz1" /> </p>
+
+- 🔭 Şu anda **Banka Hesap Yönetim Sistemi** üzerinde çalışıyorum
+
+- 🌱 Şu anda **Java** öğreniyorum
+
+- 💬 Bana **Bildiğim tüm diller hakkında** sorular sorun
+
+- 📫 Bana nasıl ulaşabilirsiniz **mehmetyildiznur8@gmail.com**
+
+<h3 align="left">Benimle iletişime geçin:</h3>
+<p align="left">
+<a href="https://instagram.com/@aydnyldz11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@aydnyldz11" height="30" width="40" /></a>
+</p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ydlz1&show_icons=true&locale=tr" alt="ydlz1" /></p>
+
+
